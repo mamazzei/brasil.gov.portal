@@ -4,7 +4,11 @@ Histórico de Alterações
 1.1.6 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
-- Nothing changed yet.
+- Remove os ícones do menu, em algumas visões de conteúdo, para que
+  os provedores de conteúdos consigam identificar os tipos de conteúdos
+  através dos ícones no conteúdo de um pasta, capa, itens relacionados etc
+  (closes '#343')
+  [claytonc]
 
 
 1.1.5.1 (2016-11-07)
