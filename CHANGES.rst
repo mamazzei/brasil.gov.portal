@@ -4,7 +4,9 @@ Histórico de Alterações
 1.1.6 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
-- Nothing changed yet.
+* Corrige o tamanho da fonte do popup que navega nos conteúdos para inserir
+  links ou imagens, no editor TinyMCE (closes '#344').
+  [claytonc]
 
 
 1.1.5.1 (2016-11-07)
