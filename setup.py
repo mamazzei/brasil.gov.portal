@@ -3,7 +3,7 @@
 from setuptools import find_packages
 from setuptools import setup
 
-version = '1.1.6.dev0'
+version = '1.1.5.1'
 long_description = (
     open('README.rst').read() + '\n' +
     open('CONTRIBUTORS.rst').read() + '\n' +
@@ -46,7 +46,6 @@ setup(
         'AccessControl',
         'Acquisition',
         'brasil.gov.agenda',
-        'brasil.gov.barra',
         'brasil.gov.portlets',
         'brasil.gov.temas',
         'brasil.gov.tiles',
